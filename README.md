@@ -1,6 +1,6 @@
 -- 👋 Hi, I’m @Joyce216
 - 👀 I’m interested in playing Flute, Piccolo
-- I major in Computer Science, ZQU University
+- I major in Computer Science, ZHAOQING University
 - 🌱 I’m currently learning C++, Database(mysql), Operating System
 - 💞 I’m looking to collaborate on **open-source projects related to C++, database development, or operating systems**
 - 📫 How to reach me **joyce216@example.com tel:18928793486
